@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, I’m Artem Chapurin [@SMhero](https://github.com/SMhero)
 
-💈 I’m interested in infomation tech, sports, political, history and music
+💈 I’m interested in `infomation tech`, `sports`, `political`, `history` and `music`
 
 🔬 I'm good at:
   - Languages: `JavaScript`, `TypeScript`
