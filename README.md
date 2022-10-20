@@ -5,7 +5,7 @@
 🔬 I'm good at:
   - Languages: `JavaScript`, `TypeScript`
   - Layout: `HTML/CSS`, `PostCSS`, `Styled Components`
-  - Library and Frameworks: `ReactJS`, `VueJS`
+  - Libraries and Frameworks: `ReactJS`, `VueJS`
   - State managers: `Redux`, `React Query`, `Pinia`
   - Testing: `Jest`, `Enzyme`, `React Testing Library`
   - Tools: `Git`, `Webpack`
