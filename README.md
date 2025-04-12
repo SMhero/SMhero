@@ -14,7 +14,7 @@
 📫 How to reach me:
   - [Gmail](smhero62@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/artemchapurin/)
-  - [Telegram](@smhero)
+  - [Telegram](https://t.me/smhero)
 
 <!---
 SMhero/SMhero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
