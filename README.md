@@ -12,7 +12,7 @@
   - Backend: `Node.js`, `Bun`, started learning `Go` 😁
 
 📫 How to reach me:
-  - [Gmail](smhero62@gmail.com)
+  - [Gmail](artemchapurin92@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/artemchapurin/)
   - [Telegram](https://t.me/smhero)
 
